@@ -23,8 +23,6 @@
                       :x-content-type-options x-content-type-options
                       :x-permitted-cross-domain-policies x-permitted-cross-domain-policies
                       :referrer-policy referrer-policy
-                      :x-permitted-cross-domain-policies x-permitted-cross-domain-policies
-                      :referrer-policy referrer-policy
                       :strict-transport-security strict-transport-security
                       :content-security-policy content-security-policy
                       :permissions-policy permissions-policy)))
